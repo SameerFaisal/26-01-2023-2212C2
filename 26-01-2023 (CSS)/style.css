@@ -1,0 +1,15 @@
+body{
+  background-color: crimson;  
+}
+
+h1{
+    color: white;
+    background-color: violet;
+
+}
+
+p{
+    color: yellowgreen;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
